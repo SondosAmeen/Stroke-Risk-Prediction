@@ -4,7 +4,7 @@ Since advancement in artificial intelligence (AI) and machine learning (ML) have
 ## Methodology:
 ### Data Preprocessing:
 Data preprocessing is an essential phase in the success of any project, as it guarantees that the dataset is of sufficient quality for subsequent analysis. This process encompasses several key steps, including addressing missing or null values, managing duplicated entries, handling outliers, and performing data scaling and normalization.
-###Exploratory Data Analysis (EDA):
+### Exploratory Data Analysis (EDA):
 Exploratory Data Analysis (EDA) is a vital step for machine learning algorithms, as it allows us to understand the dataset, its features, and the distribution of values. Typically, this step involves creating various plots to explore the data.
 ### Feature Engineering:
 Label encoding and feature scaling were performed to convert categorical values to numerical ones and scale the values to a comparable range.
